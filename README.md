@@ -1,4 +1,4 @@
-# My Gemini Agent
+# Simple Comding Agent
 
 This project is strongly based on the tutorial from [How to Build an Agent](https://ampcode.com/how-to-build-an-agent). However, this implementation uses the Gemini model instead of Anthropic's.
 
